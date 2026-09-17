@@ -4,19 +4,7 @@ A simple landing page built as part of **The Odin Project Foundations** course.
 
 This project focuses on practicing **HTML structure, CSS styling, and Flexbox layouts** to recreate a modern landing page from scratch.
 
-## Live Preview
 
-Add your GitHub Pages link here:
-
-**[Live Demo](YOUR_GITHUB_PAGES_LINK)**
-
-## Screenshot
-
-Add a screenshot of your finished website here:
-
-```md
-![Landing Page Screenshot](./screenshot.png)
-```
 
 ## Built With
 
